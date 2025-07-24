@@ -1,0 +1,16 @@
+{
+  "name": "professional-backend-hc",
+  "version": "1.0.0",
+  "description": "A professional backend by HC YT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Hitesh Choudhary",
+  "license": "ISC"
+}
